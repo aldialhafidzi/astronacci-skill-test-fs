@@ -33,8 +33,8 @@ Make sure the following tools are installed on your machine:
 Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/aldialhafidzi/astronacci-skill-test-fs
+cd astronacci-skill-test-fs
 ```
 
 ---
